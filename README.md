@@ -1,2 +1,3 @@
 # test
-this is my test.order to learn how to create a project in GitHub
+this is my test.order to learn how to create a project in GitHub  
+you are my friend.
